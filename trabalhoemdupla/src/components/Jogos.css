@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    background-color: rgb(149, 238, 153);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.titulo {
+    font-size: 50px;
+    color: white;
+    background-color: rgb(2, 255, 99);
+    padding: 30px;
+}
+
+.preco{
+    font-size: 30px;
+}
+
+.descricao {
+    font-size: 18px;
+    margin: 20px 60px;
+    text-align: center;
+}
+
+.categoria {
+    font-weight: bold;
+    margin-top: 15px;
+}
